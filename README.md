@@ -1,15 +1,14 @@
 # Linux Troubleshooting Playbook
 
-Coleção de cenários reais de troubleshooting em Linux, documentados no formato
-**sintoma → diagnóstico → causa raiz → solução → prevenção**, simulando o
+Coleção de cenários reais de troubleshooting em Linux, simulando o
 raciocínio de investigação usado no dia a dia de suporte técnico e infraestrutura.
 
 ## Objetivo
 
-Este repositório foi criado como parte da minha preparação prática para atuar em
-Cloud Support / IT Support, documentando problemas comuns reproduzidos em ambiente
+Criei este repositório como parte da minha preparação prática para desenvolver minhas habilidades
+em Cloud Support / IT Support, documentando problemas comuns reproduzidos em ambiente
 real (Linux), com os comandos exatos utilizados, seus outputs e o raciocínio por
-trás de cada etapa da investigação.
+trás de cada etapa.
 
 ## Cenários documentados
 
@@ -31,8 +30,8 @@ Cada pasta contém um arquivo `problema.md` estruturado da seguinte forma:
 
 ## Sobre
 
-Projeto em construção contínua — novos cenários serão adicionados conforme
-avanço na prática de troubleshooting.
+Projeto em construção contínua — novos cenários serão adicionados conforme prática com problemas 
+de troubleshooting.
 
 **Aaron Alves**
 [LinkedIn](https://linkedin.com/in/aaron-alves-00b07629a) · [GitHub](https://github.com/aaronscienceh-sudo)
